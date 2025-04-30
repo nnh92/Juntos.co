@@ -4,6 +4,53 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gOQyNuT984WXrLL5wmtN-1" value="Horizontal Flow Layout" style="swimlane;html=1;startSize=20;horizontal=0;childLayout=flowLayout;flowOrientation=west;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="460" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gOQyNuT984WXrLL5wmtN-2" value="数量計算書&lt;div&gt;20250430&lt;/div&gt;&lt;div&gt;+ Đã hoàn thành trong docu&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="gOQyNuT984WXrLL5wmtN-1">
+          <mxGeometry x="40" y="33.375" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="gOQyNuT984WXrLL5wmtN-3" value="チェックシート（スキャン）&lt;br&gt;20250430" style="whiteSpace=wrap;html=1;" vertex="1" parent="gOQyNuT984WXrLL5wmtN-1">
+          <mxGeometry x="190" y="20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gOQyNuT984WXrLL5wmtN-4" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="gOQyNuT984WXrLL5wmtN-1" source="gOQyNuT984WXrLL5wmtN-2" target="gOQyNuT984WXrLL5wmtN-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="152" y="59.625" />
+              <mxPoint x="178" y="41.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gOQyNuT984WXrLL5wmtN-5" value="Task" style="whiteSpace=wrap;html=1;" vertex="1" parent="gOQyNuT984WXrLL5wmtN-1">
+          <mxGeometry x="190" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gOQyNuT984WXrLL5wmtN-6" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="gOQyNuT984WXrLL5wmtN-1" source="gOQyNuT984WXrLL5wmtN-2" target="gOQyNuT984WXrLL5wmtN-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="152" y="102.125" />
+              <mxPoint x="178" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gOQyNuT984WXrLL5wmtN-7" value="End" style="whiteSpace=wrap;html=1;" vertex="1" parent="gOQyNuT984WXrLL5wmtN-1">
+          <mxGeometry x="340" y="60.875" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gOQyNuT984WXrLL5wmtN-8" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="gOQyNuT984WXrLL5wmtN-1" source="gOQyNuT984WXrLL5wmtN-3" target="gOQyNuT984WXrLL5wmtN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="302" y="41.75" />
+              <mxPoint x="328" y="73.375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gOQyNuT984WXrLL5wmtN-9" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="gOQyNuT984WXrLL5wmtN-1" source="gOQyNuT984WXrLL5wmtN-5" target="gOQyNuT984WXrLL5wmtN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="302" y="120" />
+              <mxPoint x="328" y="88.375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
