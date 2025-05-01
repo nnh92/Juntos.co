@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="v8nFZk8ntCwD6UA7ut2k">
-    <mxGraphModel dx="6694" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5398" dy="1303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
             <mxGeometry y="74" width="300" height="24" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="E3pzGyARzm8UcoSHoM5t-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gOQyNuT984WXrLL5wmtN-58" target="E3pzGyARzm8UcoSHoM5t-4">
+        <mxCell id="E3pzGyARzm8UcoSHoM5t-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gOQyNuT984WXrLL5wmtN-58" target="E3pzGyARzm8UcoSHoM5t-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gOQyNuT984WXrLL5wmtN-57" value="受領" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#F2CC8F;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
@@ -271,14 +271,48 @@
         <mxCell id="gOQyNuT984WXrLL5wmtN-112" value="〇下り線" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" parent="gOQyNuT984WXrLL5wmtN-109" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="E3pzGyARzm8UcoSHoM5t-4" value="20250501" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#F2CC8F;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="B1sOiye7Dk01VdS60Pdl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E3pzGyARzm8UcoSHoM5t-4" target="B1sOiye7Dk01VdS60Pdl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="20" />
+              <mxPoint x="-60" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3pzGyARzm8UcoSHoM5t-4" value="20250501" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#F2CC8F;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="160" y="400" width="180" height="130" as="geometry">
             <mxRectangle x="50" y="670" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(57, 60, 86), rgb(182, 184, 207)); font-size: 8px;&quot;&gt;藤岡&lt;span lang=&quot;EN-US&quot;&gt;IC&lt;/span&gt;の落橋防止構造塗装の図面はありますが、数量がありません。&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(57, 60, 86), rgb(182, 184, 207)); font-size: 8px;&quot;&gt;抜けているようです。&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(57, 60, 86), rgb(182, 184, 207));&quot;&gt;頂きたいです。&lt;/span&gt;&lt;/p&gt;" linkTarget="_blank" id="E3pzGyARzm8UcoSHoM5t-5">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;align=left;" vertex="1" parent="E3pzGyARzm8UcoSHoM5t-4">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;align=left;" parent="E3pzGyARzm8UcoSHoM5t-4" vertex="1">
             <mxGeometry y="26" width="180" height="74" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B1sOiye7Dk01VdS60Pdl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B1sOiye7Dk01VdS60Pdl-4" target="gOQyNuT984WXrLL5wmtN-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-210" y="237" />
+              <mxPoint x="-210" y="50" />
+              <mxPoint x="-2247" y="50" />
+              <mxPoint x="-2247" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1sOiye7Dk01VdS60Pdl-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt&quot;&gt;ショーボンド建設&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#F2CC8F;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="100" width="180" height="250" as="geometry">
+            <mxRectangle x="-150" y="100" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 8px;&quot;&gt;20250501&lt;/span&gt;" linkTarget="_blank" id="B1sOiye7Dk01VdS60Pdl-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;align=left;" vertex="1" parent="B1sOiye7Dk01VdS60Pdl-1">
+            <mxGeometry y="26" width="180" height="24" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;お世話になっております。&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;先日頂きました「藤岡&lt;span lang=&quot;EN-US&quot;&gt;IC&lt;/span&gt;橋」の緩衝チェーンの数量ですが、&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;上栗須他ではあった塗装数量&lt;span lang=&quot;EN-US&quot;&gt;(&lt;/span&gt;添付&lt;span lang=&quot;EN-US&quot;&gt;)&lt;/span&gt;がありませんので、&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;塗装数量が入ったものを頂けないでしょうか。&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;どうぞよろしくお願い致します。&lt;/font&gt;&lt;span style=&quot;font-size: 11pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" linkTarget="_blank" id="B1sOiye7Dk01VdS60Pdl-4">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;align=left;" vertex="1" parent="B1sOiye7Dk01VdS60Pdl-1">
+            <mxGeometry y="50" width="180" height="174" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
