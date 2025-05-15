@@ -76,7 +76,7 @@
         </mxCell>
         <mxCell id="PKwba_ZCbJq4WHA7hHal-353" value="JT-KOHKA" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="540" y="330.33" width="160" height="129.5" as="geometry">
-            <mxRectangle x="540" y="0.5" width="70" height="30" as="alternateBounds" />
+            <mxRectangle x="540" y="330.33" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NJcOnecQ_KUzRi99oX8J-12" value="20250514" style="text;html=1;strokeColor=default;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;" parent="PKwba_ZCbJq4WHA7hHal-353" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="7GXzpe08TrqEnxRHHlQo-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKwba_ZCbJq4WHA7hHal-390" target="gtJMbeYiV31dxzH4l1Sz-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PKwba_ZCbJq4WHA7hHal-390" value="TDAP" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="PKwba_ZCbJq4WHA7hHal-390" value="TDAP(4日）" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1065" y="356.33" width="70" height="30" as="geometry">
             <mxRectangle x="1020" y="349.83" width="160" height="150" as="alternateBounds" />
           </mxGeometry>
