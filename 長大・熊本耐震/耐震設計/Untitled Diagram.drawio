@@ -1106,10 +1106,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zBe3dWP5TRwv23Bo_luR-8" value="20250626" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-2440" width="110" height="80" as="geometry" />
+          <mxGeometry x="330" y="-2440" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zBe3dWP5TRwv23Bo_luR-9" value="B上り線" style="text;html=1;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="zBe3dWP5TRwv23Bo_luR-8">
           <mxGeometry y="26" width="110" height="25.987728017325153" as="geometry" />
+        </mxCell>
+        <mxCell id="zBe3dWP5TRwv23Bo_luR-13" value="B下り線" style="text;html=1;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="zBe3dWP5TRwv23Bo_luR-8">
+          <mxGeometry y="51.98772801732515" width="110" height="25.987728017325153" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
